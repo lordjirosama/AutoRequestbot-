@@ -212,8 +212,8 @@ See the **[LICENSE](./LICENSE)** file for complete details.
 
 <div align="center">
   <p align="center">
-    <b>Made With ❤️ by Rahul Dhankhar</b>
+    <b>Made With ❤️ by Jiro</b>
     <br/><br/>
-    <sub><i>© TechifyBots. All Rights Reserved.</i></sub>
+    <sub><i>© Jiro. All Rights Reserved.</i></sub>
   </p>
 </div>
