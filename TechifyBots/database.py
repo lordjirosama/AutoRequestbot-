@@ -8,7 +8,7 @@ from bson import ObjectId
 client = motor_asyncio.AsyncIOMotorClient(DB_URI)
 db = client[DB_NAME]
 
-class Techifybots:
+class Jirobots:
     def __init__(self):
         self.users = db["users"]
         self.cache: dict[int, dict[str, Any]] = {}
@@ -96,4 +96,4 @@ class Techifybots:
             print("Error in delete_user:", e)
             return False
 
-tb = Techifybots()
+tb = Jirobots()
