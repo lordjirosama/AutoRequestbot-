@@ -186,13 +186,13 @@ See the **[LICENSE](./LICENSE)** file for complete details.
 ## 👤 Author
 
 <p align="center">
-  <b style="font-size: 5.5em;">Rahul Dhankhar</b>
+  <b style="font-size: 5.5em;">Jiro</b>
   <br/>
   <sub><i>Full Stack Developer • Open Source Maintainer</i></sub>
 <br/><br/>
 <a href="https://github.com/TechifyBots"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
-<a href="https://telegram.me/ImRahulDhankhar"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"></a>
-<a href="https://instagram.com/ImRahulDhankhar"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+<a href="https://telegram.me/senpai_jiro"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"></a>
+<a href="https://www.instagram.com/muftashir.da?igsh=dHN1ZnBoNmNjOHh1"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
 <a href="https://youtube.com/@TechifyBots"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
 <br>
 <a href="https://techifybots.github.io/PayWeb">
