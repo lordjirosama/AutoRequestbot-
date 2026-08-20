@@ -32,7 +32,7 @@ class Bot(Client):
         app = web.AppRunner(await web_server())
         await app.setup()
         try:
-            await web.TCPSite(app, "0.0.0.0", int(os.getenv("PORT", 8081))).start()
+            await web.TCPSite(app, "0.0.0.0", int(os.getenv("PORT", 8084))).start()
             print("Web server started.")
         except Exception as e:
             print(f"Web server error: {e}")
