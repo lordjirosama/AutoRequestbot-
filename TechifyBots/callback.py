@@ -28,8 +28,8 @@ async def callback_query_handler(client, query: CallbackQuery):
                 caption=text.HELP.format(query.from_user.mention)
             ),
             reply_markup=InlineKeyboardMarkup([
-                [InlineKeyboardButton('📢 𝖴𝗉𝖽𝖺𝗍𝖾𝗌', url='https://telegram.me/jiro_bots'),
-                 InlineKeyboardButton('💬 𝖲𝗎𝗉𝗉𝗈𝗋𝗍', url='https://telegram.me/senpai_jiro')],
+                [InlineKeyboardButton('📢 𝖴𝗉𝖽𝖺𝗍𝖾𝗌', url='https://t.me/Solurix_bots'),
+                 InlineKeyboardButton('💬 𝖲𝗎𝗉𝗉𝗈𝗋𝗍', url='https://t.me/Solurix_Support_Group')],
                 [InlineKeyboardButton('↩️ 𝖡𝖺𝖼𝗄', callback_data="start"),
                  InlineKeyboardButton('❌ 𝖢𝗅𝗈𝗌𝖾', callback_data="close")]
             ])
