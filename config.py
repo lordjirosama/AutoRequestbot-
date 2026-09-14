@@ -5,7 +5,7 @@ API_ID = os.environ.get("API_ID", "")
 API_HASH = os.environ.get("API_HASH", "")
 BOT_TOKEN = os.environ.get("BOT_TOKEN", "")
 ADMIN = int(os.environ.get("ADMIN", "7754709357 6727651675"))
-PICS = (os.environ.get("PICS", "https://i.ibb.co/MDssddJp/pic.jpg https://i.ibb.co/n8fQ2xcx/pic.jpg")).split()
+PICS = (os.environ.get("PICS", "https://i.ibb.co/jktw4G8S/file-30286.jpg https://graph.org/file/9bcdf9f2966d21ecdc736-34279b6ade1150e97d.jpg")).split()
 LOG_CHANNEL = int(os.environ.get("LOG_CHANNEL", "-1003983740871"))
 NEW_REQ_MODE = os.environ.get("NEW_REQ_MODE", "True").lower() == "true"
 DB_URI = os.environ.get("DB_URI", "")
